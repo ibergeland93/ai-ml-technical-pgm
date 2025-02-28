@@ -11,9 +11,9 @@
 - **Data & AI Workflow Automation** – Exploring ways to integrate AI into operational efficiency.
 
 ### 🔧 Tech & Tools
-- **Languages:** Python (basic scripting), SQL
+- **Languages:** Python (basic scripting), bash, JL Notebooks, Google Collab
 - **Project Management:** Agile, Jira, Confluence, Asana
-- **AI/ML Tools:** TensorFlow, OpenAI API, Hugging Face (Exploratory)
+- **AI/ML Tools:** TensorFlow, OpenAI API
 - **Version Control & Automation:** Git, GitHub Actions
 
 ### 📌 Featured Projects
